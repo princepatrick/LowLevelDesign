@@ -1,4 +1,4 @@
-package files;
+package vendingmachine;
 
 public class Default implements MachineState{
 

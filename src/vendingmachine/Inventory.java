@@ -1,4 +1,4 @@
-package files;
+package vendingmachine;
 
 import java.util.HashMap;
 import java.util.Map;

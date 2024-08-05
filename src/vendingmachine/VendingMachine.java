@@ -1,6 +1,4 @@
-package files;
-
-import java.util.Map;
+package vendingmachine;
 
 public class VendingMachine {
 
