@@ -1,5 +1,7 @@
+import logging.LoggerRun;
 import stackoverflow_own.StackOverflowDemo;
 import vendingmachine.VendingMachineDemo;
+import logging.LoggerRun;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,7 +12,8 @@ public class Main {
 
 //        VendingMachineDemo.run();
 
-        StackOverflowDemo.run();
+//        StackOverflowDemo.run();
 
+        LoggerRun.run();
     }
 }
