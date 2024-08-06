@@ -1,3 +1,4 @@
+import coffeevendingmachine.CoffeeVendingMachineDemo;
 import logging.LoggerRun;
 import stackoverflow_own.StackOverflowDemo;
 import vendingmachine.VendingMachineDemo;
@@ -14,6 +15,8 @@ public class Main {
 
 //        StackOverflowDemo.run();
 
-        LoggerRun.run();
+//        LoggerRun.run();
+
+        CoffeeVendingMachineDemo.run();
     }
 }
