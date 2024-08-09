@@ -1,5 +1,6 @@
 import coffeevendingmachine.CoffeeVendingMachineDemo;
 import logging.LoggerRun;
+import mediumdifficulty.pubsubsystem.PubSubDemoRun;
 import stackoverflow_own.StackOverflowDemo;
 import taskmanagementsystem.TaskManagementSystemDemo;
 import trafficsystemown.TrafficSystemDemoRun;
@@ -23,6 +24,9 @@ public class Main {
 
 //        TrafficSystemDemoRun.run();
 
-        TaskManagementSystemDemo.run();
+//        TaskManagementSystemDemo.run();
+
+        PubSubDemoRun.run();
+
     }
 }
