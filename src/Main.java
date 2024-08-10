@@ -1,6 +1,7 @@
 import coffeevendingmachine.CoffeeVendingMachineDemo;
 import logging.LoggerRun;
 import mediumdifficulty.pubsubsystem.PubSubDemoRun;
+import mediumdifficulty.tictactoe.TicTacToeDemoRun;
 import stackoverflow_own.StackOverflowDemo;
 import taskmanagementsystem.TaskManagementSystemDemo;
 import trafficsystemown.TrafficSystemDemoRun;
@@ -26,7 +27,8 @@ public class Main {
 
 //        TaskManagementSystemDemo.run();
 
-        PubSubDemoRun.run();
+//        PubSubDemoRun.run();
 
+        TicTacToeDemoRun.run();
     }
 }
