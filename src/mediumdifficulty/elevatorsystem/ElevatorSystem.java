@@ -5,22 +5,26 @@ import java.util.Scanner;
 
 public class ElevatorSystem {
 
-    private int numElevators;
-    private int numFloors;
+    int numElevators;
+    int numFloors;
+    int totalUsersInTheElevators;
 
-    private ArrayList<Elevator> elevatorList;
+    ArrayList<Elevator> elevatorList;
     private ArrayList<Floor> floorList;
 
     public ElevatorSystem( int numElevators, int numFloors ){
         System.out.println("Creating an elevator system with " + numElevators + " elevators and with " + numFloors + " Floors.");
         this.numElevators = numElevators;
         this.numFloors = numFloors;
-        createAndDefineElevators();
+        this.totalUsersInTheElevators = 0;
+        elevatorList = new ArrayList<>();
+        floorList = new ArrayList<>();
+        createAndDefineElevators(this);
         createAndDefineFloors();
         System.out.println("Successfully created an elevator system with " + this.numElevators + " elevators and " + this.numFloors + " floors.");
     }
 
-    private void createAndDefineElevators(){
+    private void createAndDefineElevators(ElevatorSystem elevatorSystem){
         int elevatorCount = this.numElevators;
         Scanner scanner = new Scanner(System.in);
 
@@ -28,7 +32,7 @@ public class ElevatorSystem {
             System.out.println("Define the capacity of Elevator" + i+1 + ": ");
             int userEnteredElevatorCapacity = scanner.nextInt();
 
-            Elevator elevator = new Elevator();
+            Elevator elevator = new Elevator(userEnteredElevatorCapacity, elevatorSystem);
 
             System.out.println("Created an elevator with the capacity of " + userEnteredElevatorCapacity);
 
@@ -48,6 +52,26 @@ public class ElevatorSystem {
         }
 
         System.out.println("Created " + floorCount + " Floors");
+    }
+
+    public ArrayList<Elevator> getElevatorList(){
+        return elevatorList;
+    }
+
+    public int getNumElevators(){
+        return numElevators;
+    }
+
+    public int getNumFloors(){
+        return numFloors;
+    }
+
+    public ArrayList<Floor> getFloorList(){
+        return floorList;
+    }
+
+    public int getTotalUsersInTheElevators(){
+        return totalUsersInTheElevators;
     }
 
 }
