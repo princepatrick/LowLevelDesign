@@ -17,11 +17,13 @@ public class ElevatorSystemDemo {
 
         User u1 = new User( "UserNo1", elevatorSystem);
         u1.clickForAnElevator(2, 6);
-        u1.clickForAnElevator(6, 3);
+
+        elevatorSystem.moveTime(3);
 
         User u2 = new User("UserNo2", elevatorSystem);
         u2.clickForAnElevator(5, 7);
-        u2.clickForAnElevator(7, 3);
+
+        elevatorSystem.moveTime(5);
 
     }
 

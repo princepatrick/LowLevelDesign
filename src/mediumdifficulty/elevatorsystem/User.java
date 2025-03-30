@@ -5,13 +5,19 @@ import java.util.ArrayList;
 public class User {
     ElevatorSystem elevatorSystem;
     String username;
+    int currentFloor;
+    int destinationFloor;
 
     public User(String username, ElevatorSystem elevatorSystem){
         this.elevatorSystem = elevatorSystem;
         this.username = username;
+        this.currentFloor = currentFloor;
+        this.destinationFloor = destinationFloor;
     }
 
     public void clickForAnElevator(int currentFloor, int destinationFloor){
+        this.currentFloor = currentFloor;
+        this.destinationFloor = destinationFloor;
         ArrayList<Elevator> elevators = elevatorSystem.getElevatorList();
         int elevatorCount = elevatorSystem.getNumElevators();
         int minimumTimeForElevator = Integer.MAX_VALUE;
