@@ -2,6 +2,8 @@ import coffeevendingmachine.CoffeeVendingMachineDemo;
 import logging.LoggerRun;
 import mediumdifficulty.ATMSystem.ATMSystemDemoRun;
 import mediumdifficulty.carrentalsystem.CarRentalSystemDemoRun;
+import mediumdifficulty.elevatorsystem.ElevatorSystem;
+import mediumdifficulty.elevatorsystem.ElevatorSystemDemo;
 import mediumdifficulty.hotelmanagementsystem.HotelManagementSystemDemoRun;
 import mediumdifficulty.pubsubsystem.PubSubDemoRun;
 import mediumdifficulty.tictactoe.TicTacToeDemoRun;
@@ -38,7 +40,9 @@ public class Main {
 
 //        ATMSystemDemoRun.run();
 
-        HotelManagementSystemDemoRun.run();
+//        HotelManagementSystemDemoRun.run();
+
+        ElevatorSystemDemo.run();
 
     }
 }
