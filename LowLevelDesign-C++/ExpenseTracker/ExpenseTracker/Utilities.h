@@ -9,9 +9,9 @@ class Utilities
 {
 public:
 	Utilities();
-	virtual void addExpense(std::set<int>, std::map<int, Expense>);
-	virtual void deleteExpense(std::set<int>, std::map<int, Expense>);
-	virtual void showExpense(std::set<int>, std::map<int, Expense>);
+	virtual void addExpense(std::set<int>&, std::map<int, Expense*>&);
+	virtual void deleteExpense(std::set<int>&, std::map<int, Expense*>&);
+	virtual void showExpense(std::set<int>&, std::map<int, Expense*>&);
 	virtual int findMissedId(std::set<int>);
 	virtual Expense* createExpense(int missedId);
 	~Utilities();

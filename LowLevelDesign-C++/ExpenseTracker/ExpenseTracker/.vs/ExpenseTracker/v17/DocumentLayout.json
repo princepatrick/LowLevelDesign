@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\",
+  "WorkspaceRootPath": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:Expense.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:ExpenseTrackerApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:ExpenseTrackerApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:ExpenseTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:ExpenseTrackerApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:Expense.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:Expense.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4485FC20-84E2-48C5-95AF-6994083C533A}|ExpenseTracker.vcxproj|solutionrelative:ExpenseTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Expense.cpp",
-              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.cpp",
+              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.cpp",
               "RelativeDocumentMoniker": "Expense.cpp",
-              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.cpp",
+              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.cpp",
               "RelativeToolTip": "Expense.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-24T06:13:21.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T06:13:21.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ExpenseTrackerApp.h",
-              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.h",
+              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.h",
               "RelativeDocumentMoniker": "ExpenseTrackerApp.h",
-              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.h",
+              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.h",
               "RelativeToolTip": "ExpenseTrackerApp.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAIAzwA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAzwAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-24T04:36:17.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Utilities.cpp",
-              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.cpp",
+              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.cpp",
               "RelativeDocumentMoniker": "Utilities.cpp",
-              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.cpp",
+              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.cpp",
               "RelativeToolTip": "Utilities.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-23T22:42:28.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ExpenseTrackerApp.cpp",
-              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.cpp",
+              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.cpp",
               "RelativeDocumentMoniker": "ExpenseTrackerApp.cpp",
-              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.cpp",
+              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTrackerApp.cpp",
               "RelativeToolTip": "ExpenseTrackerApp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-23T22:42:42.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Utilities.h",
-              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.h",
+              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.h",
               "RelativeDocumentMoniker": "Utilities.h",
-              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.h",
+              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Utilities.h",
               "RelativeToolTip": "Utilities.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAIAzwA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-23T22:42:15.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Expense.h",
-              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.h",
+              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.h",
               "RelativeDocumentMoniker": "Expense.h",
-              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.h",
+              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\Expense.h",
               "RelativeToolTip": "Expense.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAIAzwAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-23T22:41:35.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExpenseTracker.cpp",
-              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.cpp",
+              "DocumentMoniker": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.cpp",
               "RelativeDocumentMoniker": "ExpenseTracker.cpp",
-              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.cpp",
+              "ToolTip": "D:\\Prince\\Git Projects\\Low Level Design\\LowLevelDesign\\LowLevelDesign-C\u002B\u002B\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.cpp",
               "RelativeToolTip": "ExpenseTracker.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-23T22:23:21.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T22:23:21.499Z"
             }
           ]
         }

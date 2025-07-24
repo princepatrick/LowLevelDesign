@@ -6,10 +6,10 @@
 
 class Expense
 {
+public:
 	int expenseId;
 	std::string description, date;
 	double amount;
-public:
 	Expense(int expenseId, std::string description, double amount, std::string date);
 };
 

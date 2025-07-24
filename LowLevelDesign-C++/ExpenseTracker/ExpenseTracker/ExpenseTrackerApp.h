@@ -9,7 +9,7 @@ class ExpenseTrackerApp
 {	
 public:
 	std::set<int> expenseIds;
-	std::map<int, Expense> expenseStorage;
+	std::map<int, Expense*> expenseStorage;
 	Utilities* utilitiesFromExpTracker;
 	ExpenseTrackerApp();
 	virtual void performOperations(int option);

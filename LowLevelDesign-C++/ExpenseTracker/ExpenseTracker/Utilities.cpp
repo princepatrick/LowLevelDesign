@@ -9,20 +9,40 @@ Utilities::Utilities() {
 	std::cout << "Entering the constructor for the add utilities class" << std::endl;
 }
 
-void Utilities::addExpense(std::set<int> expenseIds, std::map<int, Expense> expenseStorage) {
+void Utilities::addExpense(std::set<int>& expenseIds, std::map<int, Expense*>& expenseStorage) {
 	std::cout << "Adding the expenses" << std::endl;
 	int missedId = findMissedId(expenseIds);
 	expenseIds.insert(missedId);
 	Expense* expense = createExpense(missedId);
 	expenseStorage.insert({missedId, expense});
+	std::cout << "The expense storage after insertion is " << expenseStorage.size() << std::endl;
 }
 
-void Utilities::deleteExpense(std::set<int> expenseIds, std::map<int, Expense> expenseStorage) {
+void Utilities::deleteExpense(std::set<int>& expenseIds, std::map<int, Expense*>& expenseStorage) {
+	int deleteId;
 	std::cout << "Deleting the expenses" << std::endl;
+	Utilities::showExpense(expenseIds, expenseStorage);
+	std::cout << "Please find the expenses above and choose the id to remove" << std::endl;
+	std::cin >> deleteId;
+	expenseIds.erase(deleteId);
+	expenseStorage.erase(deleteId);
 }
 
-void Utilities::showExpense(std::set<int> expenseIds, std::map<int, Expense> expenseStorage) {
-	std::cout << "Showing the expenses" << std::endl;
+void Utilities::showExpense(std::set<int>& expenseIds, std::map<int, Expense*>& expenseStorage) {
+	std::cout << "Showing the expenses below: " << std::endl;
+
+	std::cout << "------------------------------------------------" << std::endl;
+
+	std::cout << "------------------------------------------------" << std::endl;
+
+	for (auto itr = expenseStorage.begin(); itr != expenseStorage.end(); itr++) {
+		Expense* expense = itr->second;
+		std::cout << " " << expense->expenseId << " " << expense->description << " " << expense->amount << " " << expense->date << std::endl;
+	}
+
+	std::cout << "------------------------------------------------" << std::endl;
+
+	std::cout << "------------------------------------------------" << std::endl;
 }
 
 int Utilities::findMissedId(std::set<int> expenseIds) {
